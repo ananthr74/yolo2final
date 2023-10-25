@@ -1,0 +1,109 @@
+/content/yolo3final/data/dr_IMG_20230322_140948_9_474.jpg
+/content/yolo3final/data/dr_IMG_20230322_141302_11_6894.jpg
+/content/yolo3final/data/dr_IMG_20230322_135732_10_5832.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141525_1_8042_3_5921.jpg
+/content/yolo3final/data/dr_IMG_20230322_140035_9_3094.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141547_0_2912_6_7674.jpg
+/content/yolo3final/data/dr_IMG_20230322_135825_1_6320.jpg
+/content/yolo3final/data/dr_IMG_20230322_140150_6_933.jpg
+/content/yolo3final/data/dr_IMG_20230322_135800_34_6683.jpg
+/content/yolo3final/data/dr_1679478648582_12_1088.jpg
+/content/yolo3final/data/dr_IMG_20230322_140643_21_9328.jpg
+/content/yolo3final/data/dr_IMG_20230322_140227_6_8747.jpg
+/content/yolo3final/data/dr_IMG_20230322_140154_8_6295.jpg
+/content/yolo3final/data/dr_IMG_20230322_141547_1_7646.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.25.29_1_44_6648.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.39.47_1_41_8719.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.23.52_6_32_2310.jpg
+/content/yolo3final/data/dr_IMG_20230322_141701_0_9475.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.38.41_5_13_5493.jpg
+/content/yolo3final/data/dr_IMG_20230322_135706_0_4708.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141521_0_8272_3_6324.jpg
+/content/yolo3final/data/dr_IMG_20230322_141641_1_169.jpg
+/content/yolo3final/data/dr_IMG_20230322_140416_20_757.jpg
+/content/yolo3final/data/dr_IMG_20230322_140027_20_3094.jpg
+/content/yolo3final/data/dr_IMG_20230322_141525_0_517.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.29.16_6_23_3547.jpg
+/content/yolo3final/data/dr_IMG_20230322_140249_1_1452.jpg
+/content/yolo3final/data/dr_1679478684834_19_1379.jpg
+/content/yolo3final/data/dr_IMG_20230322_140137_6_1523.jpg
+/content/yolo3final/data/dr_1679478648566_7_3109.jpg
+/content/yolo3final/data/dr_IMG_20230322_140119_10_5424.jpg
+/content/yolo3final/data/dr_IMG_20230322_140222_3_8670.jpg
+/content/yolo3final/data/dr_1679478744840_19_5282.jpg
+/content/yolo3final/data/dr_IMG_20230322_140703_49_5316.jpg
+/content/yolo3final/data/dr_IMG_20230322_140909_15_787.jpg
+/content/yolo3final/data/dr_IMG_20230322_140558_52_5435.jpg
+/content/yolo3final/data/dr_IMG_20230322_140143_16_7074.jpg
+/content/yolo3final/data/dr_1679478718670_19_8139.jpg
+/content/yolo3final/data/dr_1679478684920_19_2297.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.25.29_6_37_5347.jpg
+/content/yolo3final/data/dr_IMG_20230322_141525_1_1775.jpg
+/content/yolo3final/data/dr_IMG_20230322_135554_49_9660.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.29.16_1_15_9603.jpg
+/content/yolo3final/data/dr_IMG_20230322_140643_11_8412.jpg
+/content/yolo3final/data/dr_IMG_20230322_135607_48_3727.jpg
+/content/yolo3final/data/dr_IMG_20230322_141547_1_6334.jpg
+/content/yolo3final/data/dr_IMG_20230322_135839_34_8690.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.27.56_3_19_8734.jpg
+/content/yolo3final/data/dr_IMG_20230322_135800_10_4386.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.29.16_6_34_2419.jpg
+/content/yolo3final/data/dr_IMG_20230322_140643_7_303.jpg
+/content/yolo3final/data/dr_IMG_20230322_141547_0_2912.jpg
+/content/yolo3final/data/dr_IMG_20230322_140317_57_261.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.38.41_5_32_3229.jpg
+/content/yolo3final/data/dr_IMG_20230322_141525_4_6354.jpg
+/content/yolo3final/data/dr_1679478648566_6_4244.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.31.23_3_15_6539.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.31.23_3_9_2319.jpg
+/content/yolo3final/data/dr_IMG_20230322_141342_2_5993.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.39.47_3_60_8686.jpg
+/content/yolo3final/data/dr_IMG_20230322_140725_50_7707.jpg
+/content/yolo3final/data/dr_IMG_20230322_140006_29_5027.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141525_1_1775_1_7288.jpg
+/content/yolo3final/data/dr_IMG_20230322_140643_25_2936.jpg
+/content/yolo3final/data/dr_IMG_20230322_140006_12_9743.jpg
+/content/yolo3final/data/dr_IMG_20230322_140256_1_9197.jpg
+/content/yolo3final/data/dr_IMG_20230322_141131 (2)_13_2243.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141525_0_9837_2_296.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.38.41_4_51_1729.jpg
+/content/yolo3final/data/dr_IMG_20230322_141521_0_8272.jpg
+/content/yolo3final/data/dr_IMG_20230322_140239_6_346.jpg
+/content/yolo3final/data/dr_IMG_20230322_140422_50_7983.jpg
+/content/yolo3final/data/dr_IMG_20230322_135732_1_7903.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.26.48_2_42_1800.jpg
+/content/yolo3final/data/dr_IMG_20230322_141701_0_810.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.29.16_4_20_1395.jpg
+/content/yolo3final/data/dr_IMG_20230322_140828_37_713.jpg
+/content/yolo3final/data/dr_IMG_20230322_140523_58_7.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.38.41_6_46_247.jpg
+/content/yolo3final/data/dr_IMG_20230322_141202_18_6906.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.23.52_6_24_4981.jpg
+/content/yolo3final/data/dr_IMG_20230322_140903_36_4092.jpg
+/content/yolo3final/data/dr_IMG_20230322_135710_29_8673.jpg
+/content/yolo3final/data/dr_IMG_20230322_140927_31_5057.jpg
+/content/yolo3final/data/dr_1679478718650_20_3173.jpg
+/content/yolo3final/data/dr_IMG_20230322_140125_0_4930.jpg
+/content/yolo3final/data/dr_IMG_20230322_141112_21_5481.jpg
+/content/yolo3final/data/dr_IMG_20230322_140347_1_1405.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.39.47_4_10_4145.jpg
+/content/yolo3final/data/dr_IMG_20230322_140958_25_935.jpg
+/content/yolo3final/data/dr_IMG_20230322_140052_3_291.jpg
+/content/yolo3final/data/dr_IMG_20230322_140239_4_4246.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141525_1_8042_9_7176.jpg
+/content/yolo3final/data/dr_IMG_20230322_140003_29_4768.jpg
+/content/yolo3final/data/dr_1679478648514_10_9419.jpg
+/content/yolo3final/data/dr_IMG_20230322_135812_26_6524.jpg
+/content/yolo3final/data/dr_IMG_20230322_135913_22_3227.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141521_0_3775_0_2282.jpg
+/content/yolo3final/data/dr_IMG_20230322_135913_33_9179.jpg
+/content/yolo3final/data/dr_IMG_20230322_140119_1_9748.jpg
+/content/yolo3final/data/dr_IMG_20230322_140048_21_5296.jpg
+/content/yolo3final/data/dr_IMG_20230322_141016_17_7146.jpg
+/content/yolo3final/data/dr_1679478744766_17_8611.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.30.30_5_41_3532.jpg
+/content/yolo3final/data/dr_dr_IMG_20230322_141547_1_6951_0_3804.jpg
+/content/yolo3final/data/dr_IMG_20230322_140327_38_3240.jpg
+/content/yolo3final/data/dr_CamScanner 03-22-2023 14.27.56_4_3_4374.jpg
+/content/yolo3final/data/dr_1679478648656_14_3285.jpg
+/content/yolo3final/data/dr_IMG_20230322_140146_6_381.jpg
